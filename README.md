@@ -1,6 +1,9 @@
 # Hearingkiosk
 [캡스톤디자인] AI 음성인식을 활용한 키오스크 앱 
+
 개발 인원 : 3명
+
+사용툴 : java / dialogapi / mlkit / firebase
 
 ## 작품 개요
 
