@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_burger"
+        android:enabled="true"
+        android:icon="@drawable/burger_svg"
+        android:title="버거"/>
+
+    <item
+        android:id="@+id/action_side"
+        android:enabled="true"
+        android:icon="@drawable/salad_svg"
+        android:title="사이드"/>
+
+    <item
+        android:id="@+id/action_cola"
+        android:enabled="true"
+        android:icon="@drawable/cola_svg"
+        android:title="음료"/>
+
+    <item
+        android:id="@+id/action_finish"
+        android:enabled="true"
+        android:icon="@drawable/finish_svg"
+        android:title="완료"/>
+
+
+</menu>
