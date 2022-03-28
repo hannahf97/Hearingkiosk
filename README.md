@@ -3,7 +3,7 @@
 
 개발 인원 : 3명
 
-사용툴 : java / dialogapi / mlkit / firebase
+사용툴 : Java / Dialog API / ML kit / Firebase Realtime Database
 
 ## 작품 개요
 
